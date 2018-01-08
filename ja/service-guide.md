@@ -1,4 +1,4 @@
-## Dooray > Drive > 서비스 가이드
+## Dooray > Drive > Service Guide
 
 Dooray! Drive 사용자 가이드 
 ============================

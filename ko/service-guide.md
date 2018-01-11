@@ -67,9 +67,12 @@ Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하
 > 것을 확인할 수 있습니다.
 
 
-  > \[그림\] 프로젝트 드라이브 사용 설정         
-  \[그림\] 드라이브 &gt; 프로젝트 드라이브 생성
-                                                   
+![프로젝트설정](http://static.toastoven.net/prod_dooray_project/01_drive_setting.png)
+<center>[그림 1] 프로젝트 드라이브 사용 설정   </center>
+  
+![드라이브생성](http://static.toastoven.net/prod_dooray_project/02_drive_create.png)
+<center>[그림 2] 드라이브 > 프로젝트 드라이브 생성</center>  
+                                                 
 
 ###   드라이브 접근 및 파일 사용 권한  
 

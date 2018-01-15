@@ -43,10 +43,10 @@ Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하
 > 왼쪽 메뉴에 프로젝트 드라이브 메뉴에 ‘dooray-웹개편’ 드라이브가 생긴 것을 확인할 수 있습니다.
 
 
-![프로젝트설정](http://static.toastoven.net/prod_dooray_project/01_drive_setting.png)
+![프로젝트설정](http://static.toastoven.net/prod_dooray_drive/01_drive_setting.png)
 <center>[그림 1] 프로젝트 드라이브 사용 설정   </center>
   
-![드라이브생성](http://static.toastoven.net/prod_dooray_project/02_drive_create.png)
+![드라이브생성](http://static.toastoven.net/prod_dooray_drive/02_drive_create.png)
 <center>[그림 2] 드라이브 > 프로젝트 드라이브 생성</center>  
                                                  
 

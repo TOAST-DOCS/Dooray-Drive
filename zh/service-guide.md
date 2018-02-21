@@ -1,4 +1,4 @@
-## Dooray > Drive > 서비스 가이드
+## Dooray > Drive > Service Guide
 
 ### Dooray! 드라이브 시작하기 
 

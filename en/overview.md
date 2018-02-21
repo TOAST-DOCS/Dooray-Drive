@@ -1,4 +1,4 @@
-## Dooray > Drive > 개요
+## Dooray > Drive > Overview
 
 Dooray! 드라이브는 Dooray! 서비스에서 제공하는 파일 저장 공간입니다. 
 

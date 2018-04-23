@@ -1,4 +1,4 @@
-## Dooray > Drive > Release Notes
+## Dooray! > Drive > Release Notes
 
 ### 2018.01.15
 #### 기능 개선 

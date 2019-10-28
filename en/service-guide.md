@@ -1,114 +1,73 @@
-## Dooray > Drive > Service Guide
+﻿## Dooray! > Drive > Service Guide
 
-Dooray! Drive 사용자 가이드 
-============================
+### Dooray! Start Drive 
 
-Dooray! 드라이브 시작하기 
---------------------------
+Dooray! Drive allows you to save files and folders safely and download the latest files anywhere at any time. 
+It provides not only My Drive but also Project Drive for members to save and manage files. Therefore, project members can access the latest files. These files are stored in the drive even if members of the project leaves the project, which means data loss is prevented for the organization.
 
-Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하고 언제
-어디서나 최신의 파일을 다운로드 받을 수 있습니다. Dooray! 드라이브는 내
-드라이브뿐 아니라, 프로젝트 드라이브를 제공해 멤버들이 함께 파일을
-저장하고 관리할 수 있습니다. 이를 통해 프로젝트 멤버들이 최신의 파일에
-접근할 수 있고, 멤버가 탈퇴해도 파일들은 계속 드라이브에 남아 있어
-조직의 데이터 유실을 막을 수 있는 장점이 있습니다.
+- To use the drive, the organization administrator should set 'Drive Service Enabled?' to 'Enabled' in the ‘Manage Organization&gt;Service Settings&gt;Use and Restrictions’.
+- After setting to 'Enabled', refresh the screen to view the Drive menu exposed on the navigation bar at the top.
 
-드라이브 사용을 위해서는 조직 관리자가 ‘조직관리&gt;서비스 설정&gt;사용
-및 제한’에서 드라이브 서비스 사용 여부를 사용으로 설정해야 합니다.
-사용함으로 설정 후, 화면을 리프레쉬 하면 상단 네비게이션 바에 드라이브
-메뉴가 노출되는 것을 확인할 수 있습니다.
+### My Drive 
 
-### 내 드라이브 
+#### Upload File and Folder
 
-#### 파일 및 폴더 업로드
+- Dooray! - When starting the Dooray! Drive service, you can see the ‘+Upload File’ menu at the top left of the page. 
+- In Chrome browser, if you click the down arrow key on the right side of the ‘Upload File' menu, the ‘Folder Upload’ menu is separately displayed, allowing a separate action of uploading a folder. However, since Internet Explorer browser does not support the Folder Upload feature, you should upload files after directly performing 'Add Folder' to the Drive.
 
-> Dooray! 드라이브 서비스에 들어오면 좌측 페이지 상단에 ‘+파일 업로드’
-> 메뉴를 확인할 수 있습니다. 크롬 브라우저의 경우, ‘+파일 업로드’ 메뉴
-> 우측에 아래 방향 화살표를 누르면 ‘폴더 업로드’ 메뉴가 따로 노출되서
-> 폴더 업로드가 별도로 가능하나 IE 브라우저의 경우는 폴더 업로드가
-> 지원되지 않기 때문에 드라이브에 폴더 추가를 한 후, 파일을 업로드해
-> 주세요.
+#### Download File
 
-#### 파일 다운로드
+- Select the files or folders in the Drive and the 'Download' menu will be enabled at the top of the list. Click ‘Download’ to save the files in the default download folder of your PC. 
+- When you try to download more than four files, the files are downloaded with the file name ‘1st file name.zip’.
 
-> 드라이브에 있는 파일 또는 폴더들을 선택하면 목록 상단에 ‘다운로드’
-> 메뉴가 활성화됩니다. ‘다운로드’를 클릭하면 내 PC의 디폴트 다운로드
-> 폴더에 파일들이 저장됩니다. 5개 이상의 파일을 선택해 다운로드 시도 시,
-> ‘1번째 파일이름.zip’ 파일로 다운로드가 됩니다.
+#### Move and Copy File
 
-#### 파일 이동 및 복사
+- Select the files or folders in the Drive and select the 'Move' or 'Copy' menu at the top of the list. 
+- Dooray! - In Dooray! Drive, you can move files or folders within the current drive only. Only you can use My Drive now, however Project Drive is used by project members together. Therefore, if the members move any file to another project drive, you cannot track the file. To prevent any problem, 'Move' is available within the current drive only, and 'Copy' is available to another project drive, too.
 
-> 드라이브에 있는 파일 또는 폴더들을 선택해 목록 상단에 있는 ‘이동’ 또는
-> ‘복사’ 메뉴를 선택합니다. Dooray! 드라이브에서 파일 또는 폴더의 이동은
-> 현재 드라이브 내에서만 가능합니다. 내 드라이브는 현재 나만 사용
-> 가능하지만, 프로젝트 멤버가 함께 사용하는 프로젝트 드라이브는 멤버들이
-> 파일들을 다른 프로젝트 드라이브로 이동시켜 버리면 추적을 할 수 없기
-> 때문에 ‘이동’은 현재 드라이브 내에서만, ‘복사’는 다른 프로젝트
-> 드라이브로도 복사가 가능합니다.
+#### Delete, Permanent Delete, or Restore File
 
-#### 파일 삭제, 영구 삭제, 복원
+- You can delete files or folders directly from My Drive. 
+- When a file is deleted, the file will be moved to Trash Bin. Files moved to Trash Bin can be restored by the person who deleted them. When restored, files are moved to the original file path. 
+- Please select and permanently delete unnecessary files in Trash Bin. This can save the drive space.
 
-> 내 드라이브의 파일 또는 폴더는 내가 직접 삭제할 수 있습니다. 파일 삭제
-> 시, 휴지통으로 파일이 이동이 되며, 휴지통으로 이동된 파일들은 삭제한
-> 본인이 복원할 수 있습니다. 복원할 경우 원래 경로로 파일이 다시
-> 이동됩니다. 휴지통에서 불필요한 파일은 선택하여 영구 삭제를 해주세요.
-> 드라이브 용량을 줄일 수 있습니다.
+### Project Drive 
 
-### 프로젝트 드라이브 
+#### Add Project Drive
 
-#### 프로젝트 드라이브 추가
+- Project Drive can be accessed and used by project members together. 
+-  Like Dooray! Project Calendar, the project manager should enable the Project Drive to be able to use it.
+- Enabling Project Drive can be set in each ‘Project Settings&gt;Project Drive’ area.
 
-> 프로젝트 드라이브는 프로젝트 멤버들이 접근해서 함께 이용할 수 있는
-> 드라이브입니다. 프로젝트 드라이브는 Dooray! 프로젝트 캘린더처럼
-> 프로젝트 관리자가 드라이브 사용을 설정해주어야 사용할 수 있습니다.
-> 프로젝트 드라이브 사용은 각 ‘프로젝트 설정&gt;프로젝트 드라이브’
-> 영역에서 설정할 수 있습니다.
->
-> ‘dooray-웹개편’ 프로젝트를 진행 중이라면, 해당 프로젝트 설정에서
-> 드라이브를 사용으로 설정하면 Dooray! 드라이브 서비스 페이지에 접속 시,
-> 왼쪽 메뉴에 프로젝트 드라이브 메뉴에 ‘dooray-웹개편’ 드라이브가 생긴
-> 것을 확인할 수 있습니다.
+> If ‘dooray-SiteRebuilding’ (dooray-웹개편) project is in progress and the drive is set to Enabled in the Project Settings, then as you access the Dooray! Drive Service page,
+you will see that the 'dooray-SiteRebuilding’ (dooray-웹개편) drive has been created on the > left menu.
 
-  ---------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
-  > \[그림\] 프로젝트 드라이브 사용 설정                                             \[그림\] 드라이브 &gt; 프로젝트 드라이브 생성
-                                                                                     
-  ![](media/image84.png)   ![](media/image85.png)
-  ---------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
 
--   **드라이브 접근 및 파일 사용 권한 **
+![Project Settings](http://static.toastoven.net/prod_dooray_drive/01_drive_setting.png)
+<center>[Figure 1] Enabling project drive   </center>
+  
+![Creating a drive](http://static.toastoven.net/prod_dooray_drive/02_drive_create.png)
+<center>[Figure 2] Drive > Create Project Drive</center>  
+                                                 
 
-> 프로젝트 드라이브는 프로젝트 캘린더처럼 프로젝트 멤버들은 누구나
-> 드라이브에 접근해 파일 및 폴더를 관리할 수 있습니다. 파일 읽기, 쓰기가
-> 가능하며, 삭제, 이동, 복사 또한 가능합니다.
->
-> 멤버 누구나 파일을 업로드 하고 수정할 수 있으므로 프로젝트 진행 시
-> 생성되는 산출물들은 개인 컴퓨터에 저장하지 말고 프로젝트 드라이브에
-> 업로드 할 것을 권장합니다. 그러면 업무와 관련된 최신 파일을 항상
-> 유지할 수 있어 업무 진행 시 최종 산출물이 무엇인지 매번 확인하며
-> 업무를 진행하지 않아도 되며, 멤버가 탈퇴하더라도 드라이브에 파일이
-> 그대로 있어 파일 유실을 막을 수 있습니다.
->
-> 프로젝트 드라이브의 파일 및 폴더 삭제는 멤버 누구나 할 수 있습니다.
-> 삭제된 파일은 해당 프로젝트 드라이브의 휴지통으로 이동됩니다.
-> 휴지통에서 삭제된 파일의 복원은 누구나 할 수 있지만, 영구 삭제는
-> 프로젝트 관리자만 할 수 있어 데이터 유실을 방지합니다. 프로젝트
-> 관리자가 영구 삭제한 파일 목록은 Dooray! 서버에 저장되며 영구 삭제된
-> 파일 목록을 볼 수 있는 화면도 제공 예정입니다. (‘18년 2월 이내)
+### Access Permissions to Drive and File  
 
--   변경 히스토리
+#### Project Drive
+Just like Project Calendar, any project members can access their Project Drive to manage their files and folders. You can read and write files as well as deleting, moving, and copying files.
 
-프로젝트 멤버들이 파일 및 폴더를 함께 접근해서 사용할 경우, 영구 삭제를
-하지 않아도 파일 유실, 변경에 대한 걱정을 하지 않으셔도 됩니다. 프로젝트
-드라이브의 파일 및 폴더들은 다른 드라이브로 이동할 수 없게 되어
-있습니다. 다른 드라이브로 파일이 이동되면, 이동된 프로젝트 드라이브의
-멤버가 아닌 이상, 파일을 추적할 수가 없습니다. 그래서 Dooray! 프로젝트
-드라이브는 파일 및 폴더의 이동은 해당 드라이브 내에서만 허용하며, 복사는
-다른 드라이브로 허용 하고 있습니다.
+- Since any members can upload and modify files, it is recommended to upload your products created during the project period instead of saving in local PCs. 
+- Use of Project Drive allows you to keep the files up-to-date, so you don't need to check the final projects during the project period. Even if a member leaves the project, the files are left in the drive, which means data loss is prevented.
+- Any project members can delete files and folders in their Project Drive. Deleted files are moved to Trash Bin of the Project Drive.
+- Anyone can restore deleted files from Trash Bin; however, only project manager can perform Permanent Delete.
+- The list of files permanently deleted by the project manager will be saved in the Dooray! server and a screen to view the list of permanently deleted files will be provided soon.  
 
-> 그 외, 드라이브 파일 목록에서 파일 또는 폴더를 선택해 봅시다. 우측
-> 상세 영역에서는 선택한 파일의 이동, 복사, 삭제, 이름 변경 뿐아니라
-> 폴더 생성, 이동, 복사, 삭제, 폴더 이름 변경, 폴더 내 파일 추가 등과
-> 같이 변경된 파일과 폴더에 대한 변경 정보들을 시간 순으로 제공합니다.
-> 이는 여러 멤버들이 함께 파일을 관리하더라도 파일 변경에 대한 추적을 할
-> 수 있게 도와줍니다.
+#### Public Project Drive
+To allow all members of an organization to access the drive and read/write files, create a Public Project Drive. More information on Public Project will be described in Create Project. After creating a public project, enable the drive in Project Settings to show the accessible drive to members of the organization.  
+
+###   Change History
+
+When project members access and use files and folders together, you don't have to worry about any file loss or changes even if you didn't permanently delete them. The files and folders in your Project Drive cannot be moved into other drives. If a file is moved to other drive, only the members of the corresponding project drive can track the file. 
+
+- Dooray! Project Drive allows movement of files and folders within the drive only, but copying to other drive is available.
+- When you select a file or folder from drive file list, the right area shows changed information of the file or folder in the chronological order, such as creation, movement, copy, deletion, and renaming of the folder and adding files to the folder, as well as movement, copy, deletion, and renaming of the selected file. This helps you track file changes easily even when a group of members handle those files together.
 

@@ -1,4 +1,4 @@
-﻿## Dooray! > Drive > Service Guide
+## Dooray! > Drive > Service Guide
 
 ### Dooray! Start Drive 
 
@@ -70,4 +70,5 @@ When project members access and use files and folders together, you don't have t
 
 - Dooray! Project Drive allows movement of files and folders within the drive only, but copying to other drive is available.
 - When you select a file or folder from drive file list, the right area shows changed information of the file or folder in the chronological order, such as creation, movement, copy, deletion, and renaming of the folder and adding files to the folder, as well as movement, copy, deletion, and renaming of the selected file. This helps you track file changes easily even when a group of members handle those files together.
+
 

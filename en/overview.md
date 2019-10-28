@@ -1,4 +1,4 @@
-﻿## Dooray! > Drive > Overview
+## Dooray! > Drive > Overview
 
 Dooray! Drive is a file storage provided by Dooray! services. 
 
@@ -14,5 +14,3 @@ Dooray! Drive is a file storage provided by Dooray! services.
 - Creates drives per project optimized to save and manage files together by project members. 
 - Keeps files up-to-date by allowing collaborators to upload products to the Project Drive while working on a project.
 - Provides detailed information on changes to files and folders.
-
-

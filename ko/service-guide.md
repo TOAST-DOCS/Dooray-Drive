@@ -46,19 +46,19 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 ### 공유 링크
 
 ![드라이브생성](http://static.toastoven.net/prod_dooray_drive/Drive_03_ko.png)
-<center>[그림 3]공유하기</center>  
+<center>[그림 2]공유하기</center>  
 
 프로젝트 내 멤버가 아닌 멤버에게 특정 파일을 공유하고 싶을 때 '공유하기' 기능을 통해 파일을 링크로 공유할 수 있습니다. 내가 등록한 파일을 다른 사람이 임의로 공유하는 것을 막기 위해, 해당 파일을 등록한 사람과 프로젝트 관리자만 해당 업무를 링크로 공유할 수 있습니다. 
 
 ![드라이브생성](http://static.toastoven.net/prod_dooray_drive/Drive_04_ko.png)
-<center>[그림 4]공유 링크 생성 </center>  
+<center>[그림 3]공유 링크 생성 </center>  
 
 -	공유하고자 하는 파일의 [파일 상세 > 공유하기]를 선택합니다. 
 -	공유할 수 있는 링크를 생성하기 위해 ‘링크 추가’를 클릭합니다.
 -	링크를 생성할 때에 공유기간, 공유 범위를 지정할 수 있습니다. 
 
 ![드라이브생성](http://static.toastoven.net/prod_dooray_drive/Drive_05_ko.png)
-<center>[그림 5]공유 링크 설정</center>  
+<center>[그림 4]공유 링크 설정</center>  
 
 공유 기간
 -	해당 날짜까지 공유합니다. 날짜가 지나면 링크는 유효하지 않습니다.

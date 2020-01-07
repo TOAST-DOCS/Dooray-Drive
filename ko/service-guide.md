@@ -34,10 +34,7 @@ Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하
 
 ![프로젝트설정](http://static.toastoven.net/prod_dooray_drive/Drive_01_ko.png)
 <center>[그림 1] 프로젝트 드라이브 사용 설정</center>
-  
-![드라이브생성](http://static.toastoven.net/prod_dooray_drive/Drive_02_ko.png)
-<center>[그림 2] 드라이브 > 프로젝트 드라이브 생성</center>  
-                                                 
+          
 ### 드라이브 접근 및 파일 사용 권한  
 Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요.  
 

@@ -81,6 +81,7 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 ### 한컴 오피스 사용하기
 - 드라이브의 '공동 편집' 기능 사용 시, 한컴 오피스를 사용할 수 있습니다. 
 - 기본적으로 문서 열기, 저장, 열람, 변환, 인쇄 등의 기능을 지원합니다.
+- 한컴 오피스를 지원하는 확장자는  'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
 
 ![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_PPT.png)
 <center>[그림 1] PPT 공동 편집 실행화면</center>  
@@ -95,6 +96,7 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 ### 폴라리스 오피스 사용하기
 - 드라이브의 '편집' 기능 사용 시, 폴라리스 오피스를 사용할 수 있습니다. 
 - 기본적으로 문서 편집 후 업로드, 열람, 인쇄 등의 기능을 지원합니다.
+- 폴라리스 오피스를 지원하는 확장자는  'xlsx', 'xls', 'docx', 'doc', 'pptx', 'ppt', 입니다.
 - 문서 편집 후 툴바에서 '두레이 업로드' 클릭 시 두레이 드라이브로 업로드 됩니다. 
 
 ![편집](http://static.toastoven.net/prod_dooray_drive/editing_01.png)

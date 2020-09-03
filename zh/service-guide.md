@@ -76,3 +76,49 @@ Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하
 - Dooray! 프로젝트 드라이브는 파일 및 폴더의 이동은 해당 드라이브 내에서만 허용하며, 복사는 다른 드라이브로 허용 하고 있습니다.
 - 드라이브 파일 목록에서 파일 또는 폴더를 선택할 경우 우측 상세 영역에서는 선택한 파일의 이동, 복사, 삭제, 이름 변경 뿐 아니라 폴더 생성, 이동, 복사, 삭제, 폴더 이름 변경, 폴더 내 파일 추가 등과 같이 변경된 파일과 폴더에 대한 변경 정보들을 시간 순으로 제공합니다. 이는 여러 멤버들이 함께 파일을 관리하더라도 파일 변경에 대한 추적을 할 수 있게 도와줍니다.
 
+
+### 공동 편집 (Joint Editing)
+- 다수의 사용자가 하나의 문서를 실시간으로 공동편집하고, 변경내용을 편집화면 내에서 바로 확인할 수 있습니다.
+- 공동 편집기능을 지원하는 확장자는 'hwp', 'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
+- 파일 클릭 후 우측 미리보기 영역에서 '공동 편집'을 클릭하는 경우 공동 편집 기능이 활성화 됩니다.
+
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/joint_editing_01.png)
+<center>[그림 1] 공동 편집 </center>  
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/joint_editing_02.png)
+<center>[그림 1] 공동 편집 실행 화면</center>  
+
+- 공동 편집 기능은 웹오피스인 한컴오피스로 실행됩니다.
+- 공동 편집 기능(유료)을 사용하기 위해서는 별도 신청이 필요합니다.(문의:dooray@nhn.com)
+
+### 한컴 오피스 사용하기(Hancom Office)
+- 드라이브의 '공동 편집' 기능 사용 시, 한컴 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 열기, 저장, 열람, 변환, 인쇄 등의 기능을 지원합니다.
+- 한컴 오피스를 지원하는 확장자는 'hwp', 'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/joint_editing_PPT.png)
+<center>[그림 1] PPT 실행화면</center>  
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/joint_editing_Excel.png)
+<center>[그림 2] Excel 실행화면</center>  
+
+- 상세기능 설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html), [Word 도움말](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
+- 공동 편집 화면 우측상단의 물음표 클릭 시 도움말을 확인 할 수 있습니다.
+
+### 폴라리스 오피스 사용하기(Polaris Office)
+- 드라이브의 '편집' 기능 사용 시, 폴라리스 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 편집 후 업로드, 열람, 인쇄 등의 기능을 지원합니다.
+- 폴라리스 오피스를 지원하는 확장자는 'hwp', 'xlsx', 'xls', 'docx', 'doc', 'pptx', 'ppt', 입니다.
+- 문서 편집 후 툴바에서 '두레이 업로드' 클릭 시 두레이 드라이브로 업로드 됩니다. 
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_01.png)
+<center>[그림 1] 두레이 업로드 </center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_ppt2.png)
+<center>[그림 2] PPT 실행화면</center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_excel2.png)
+<center>[그림 3] Excel 실행화면</center>  
+
+- 상세기능 설명은 폴라리스 오피스의 [사용자 가이드](http://pc.polarisoffice.com/help/kor/PO2017/)를 참고 해주세요.

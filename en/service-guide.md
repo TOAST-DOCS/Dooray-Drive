@@ -98,7 +98,7 @@ When project members access and use files and folders together, you don't have t
 ![Joint Editing](http://static.toastoven.net/prod_dooray_drive/joint_editing_Excel.png)
 <center>[Figure 2] Excel</center>  
 
-- See [PPT Help](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel Help](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html), [Word Help](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)at Hancom Office.
+- See [Excel Help](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [PPT Help](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html), [Word Help](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)at Hancom Office.
 - Click on the question mark in the upper-right corner of the joint editing screen for help.
 
 ### Using Polaris Office

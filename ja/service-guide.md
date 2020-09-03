@@ -98,7 +98,7 @@ Dooray[プロジェクトのサービス別権限設定](https://docs.toast.com/
 ![共同編集](http://static.toastoven.net/prod_dooray_drive/joint_editing_Excel.png)
 <center>[図2>Excel実行画面<center>  
 
--  機能の詳しい説明は、Hancom  Officeの[PPTヘルプ](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html)、[Exelヘルプ](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)、[Wordヘルプ](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)をご参照ください。
+-  機能の詳しい説明は、Hancom  Officeの[Excelヘルプ](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html)、[PPTヘルプ](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)、[Wordヘルプ](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)をご参照ください。
 -  共同編集画面の右上にある「？」をクリックすると、ヘルプを確認できます。
 
 ### Polaris  Officeを使用する

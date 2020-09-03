@@ -76,7 +76,7 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 - 파일 클릭 후 우측 미리보기 영역에서 '공동 편집'을 클릭하는 경우 공동 편집 기능이 활성화 됩니다.
 - 공동 편집 기능을 사용하기 위해서는 별도 신청이 필요합니다.
 
-![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%real-time%editing_01.png)
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_01.png)
 <center>[그림 1] 공동 편집 실행</center>  
 
 

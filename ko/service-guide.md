@@ -89,7 +89,6 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 ![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_Excel.png)
 <center>[그림 2] Excel 공동 편집 실행화면</center>  
 
-- 한컴 오피스 기능 도움말은 공동 편집 화면 우측 상단 물음표 클릭 시 확인 가능합니다.
 - 상세 기능설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
 
 

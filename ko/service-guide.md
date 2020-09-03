@@ -89,8 +89,8 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 ![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_Excel.png)
 <center>[그림 2] Excel 공동 편집 실행화면</center>  
 
-- 상세 기능설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
-
+- 상세 기능설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html). [Word 도움말](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
+- 공동 편집 화면 우측상단의 물음표 클릭 시 도움말을 확인할 수 있습니다.
 
 ### 폴라리스 오피스 사용하기
 - 드라이브의 '편집' 기능 사용 시, 폴라리스 오피스를 사용할 수 있습니다. 

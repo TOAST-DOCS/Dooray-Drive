@@ -72,3 +72,49 @@ When project members access and use files and folders together, you don't have t
 - When you select a file or folder from drive file list, the right area shows changed information of the file or folder in the chronological order, such as creation, movement, copy, deletion, and renaming of the folder and adding files to the folder, as well as movement, copy, deletion, and renaming of the selected file. This helps you track file changes easily even when a group of members handle those files together.
 
 
+### Joint Editing
+- Multiple users can co-ed one document in real time and view the changes directly within the editing screen.
+- Extensions that support joint editing are 'hwp', 'xxx', 'xxls', 'cell', 'docx', 'doc', 'pptx', 'ppt', and 'show'.
+- If you click 'Joint Edit' in the right preview pane after clicking on a file, the co-editing function will be activated.
+
+
+![Joint Editing](http://static.toastoven.net/prod_dooray_drive/joint_editing_01_EN.png)
+<center>[Figure 1]Joint Editing </center>  
+
+![Joint Editing](http://static.toastoven.net/prod_dooray_drive/joint_editing_02_EN.png)
+<center>[Figure 2] Joint Editing on running</center>  
+
+- Co-editing is performed as a web office, Hancom Office.
+- A separate application is required to use the co-editing function (for a fee). (Contact: dooray@nhn.com)
+
+### Using the Hancom Office
+- Hancom Office can be used when using the 'co-editing' feature on the drive.
+- By default, it supports the ability to open, save, view, convert, print, and more.
+- The Hancom Office supports 'hwp', 'xxs', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt' and 'show'.
+
+![Joint Editing](http://static.toastoven.net/prod_dooray_drive/joint_editing_PPT.png)
+<center>[Figure 1] PPT</center>  
+
+![Joint Editing](http://static.toastoven.net/prod_dooray_drive/joint_editing_Excel.png)
+<center>[Figure 2] Excel</center>  
+
+- See [PPT Help](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel Help](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html), [Word Help](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)at Hancom Office.
+- Click on the question mark in the upper-right corner of the joint editing screen for help.
+
+### Using Polaris Office
+- Polaris offices are available when using the 'Edit' feature on the drive.
+- By default, it supports functions such as uploading, viewing, and printing documents after editing them.
+- The extensions that support Polaris offices are 'hwp', 'xxs', 'xxs', 'docx', 'doc', 'pptx', 'ppt'.
+- After editing the document, click 'Upload Duray' on the toolbar and it will be uploaded to the Duray drive.
+
+![Editing](http://static.toastoven.net/prod_dooray_drive/editing_01_EN.png)
+<center>[Figure 1] Upload to Dooray! </center>  
+
+![Editing](http://static.toastoven.net/prod_dooray_drive/editing_ppt2_EN.png)
+<center>[Figure 2] PPT</center>  
+
+![Editing](http://static.toastoven.net/prod_dooray_drive/editing_excel2_EN.png)
+<center>[Figure 3] Excel</center>  
+
+- Please refer to [User's Guide](http://pc.polarisoffice.com/help/kor/PO2017/)at Polaris Office.
+

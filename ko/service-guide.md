@@ -76,7 +76,7 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 <center>[그림 1] 공동 편집 </center>  
 
 ![공동편집](http://static.toastoven.net/prod_dooray_drive/joint_editing_02.png)
-<center>[그림 1] 공동 편집 실행 화면</center>  
+<center>[그림 2] 공동 편집 실행 화면</center>  
 
 - 공동 편집 기능은 웹오피스인 한컴오피스로 실행됩니다.
 - 공동 편집 기능(유료)을 사용하기 위해서는 별도 신청이 필요합니다.(문의:dooray@nhn.com)

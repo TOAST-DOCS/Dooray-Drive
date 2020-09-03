@@ -84,10 +84,10 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 - 드라이브의 '공동 편집' 기능 사용 시, 한컴 오피스를 사용할 수 있습니다. 
 - 기본적으로 문서 열기, 저장, 열람, 변환, 인쇄 등의 기능을 지원합니다.
 
-![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborativereal-timeediting_PPT.png)
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_PPT.png)
 <center>[그림 1] PPT 공동 편집 실행화면</center>  
 
-![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborativereal-timeediting_Excel.png)
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_Excel.png)
 <center>[그림 2] Excel 공동 편집 실행화면</center>  
 
 - 한컴 오피스 기능 도움말은 공동 편집 화면 우측 상단 물음표 클릭 시 확인 가능합니다.

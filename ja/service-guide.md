@@ -69,3 +69,51 @@ Dooray[プロジェクトのサービス別権限設定](https://docs.toast.com/
 
 共有範囲
 -	テナント内のメンバー、ゲスト、外部ユーザーにも共有することができます。添付ファイルまで共有するか設定します。
+
+
+### 共同編集（Joint  Editing）
+-  複数のユーザーが1つの文書をリアルタイムで共同編集し、変更内容を編集画面内で確認することができます。
+-  共同編集機能をサポートする拡張子は、「hwp」「xlsx」「xls」「cell」「docx」「doc」「pptx」「ppt」「show」です。
+-  ファイルをクリックし、右側のプレビューエリアで「共同編集」をクリックすると、共同編集機能が有効になります。
+
+
+![共同編集](http://static.toastoven.net/prod_dooray_drive/joint_editing_01_EN.png)
+<center>[図1]共同編集<center>  
+
+![共同編集](http://static.toastoven.net/prod_dooray_drive/joint_editing_02_EN.png)
+<center>[図1]共同編集実行画面<center>  
+
+-  共同編集機能は、WebOfficeのHancom Officeです。
+-  共同編集機能（有料）を使用するには別途申請が必要です。（お問い合わせ:dooray@nhn.com）
+
+### Hancom  Officeを使用する
+-  ドライブの「共同編集」機能を使用しているとき、Hancom  Officeを使用することができます。 
+-  デフォルトで、文書を開く、保存、閲覧、変換、印刷などの機能をサポートします。
+-  Hancom  Officeをサポートする拡張子は、「hwp」「xlsx」「xls」「cell」「docx」「doc」「pptx」「ppt」「show」です。
+
+
+![共同編集](http://static.toastoven.net/prod_dooray_drive/joint_editing_PPT.png)
+<center>[図1]PPT実行画面<center>  
+
+![共同編集](http://static.toastoven.net/prod_dooray_drive/joint_editing_Excel.png)
+<center>[図2>Excel実行画面<center>  
+
+-  機能の詳しい説明は、Hancom  Officeの[PPTヘルプ](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html)、[Exelヘルプ](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)、[Wordヘルプ](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)をご参照ください。
+-  共同編集画面の右上にある「？」をクリックすると、ヘルプを確認できます。
+
+### Polaris  Officeを使用する
+-  ドライブの「編集」機能を使用しているとき、Polaris  Officeを使用することができます。 
+-  デフォルトで、文書編集後のアップロード、閲覧、印刷などの機能をサポートします。
+-  Polaris  Officeをサポートする拡張子は、「hwp」「xlsx」「xls」「docx」「doc」「pptx」「ppt」です。
+-  文書編集後、ツールバーで「Doorayアップロード」をクリックすると、Doorayドライブにアップロードされます。 
+
+![編集](http://static.toastoven.net/prod_dooray_drive/editing_01_EN.png)
+<center>[図1]Doorayアップロード<center>  
+
+![編集](http://static.toastoven.net/prod_dooray_drive/editing_ppt2_EN.png)
+<center>[図2]PPT実行画面<center>  
+
+![編集](http://static.toastoven.net/prod_dooray_drive/editing_excel2_EN.png)
+<center>[図3]Excel実行画面<center>  
+
+-  機能の詳しい説明は、Polaris  Officeの[ユーザーガイド](http://pc.polarisoffice.com/help/kor/PO2017/)をご参照ください。

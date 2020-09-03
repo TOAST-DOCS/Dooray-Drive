@@ -87,7 +87,7 @@ When project members access and use files and folders together, you don't have t
 - Co-editing is performed as a web office, Hancom Office.
 - A separate application is required to use the co-editing function (for a fee). (Contact: dooray@nhn.com)
 
-### Using the Hancom Office
+### Using Hancom Office
 - Hancom Office can be used when using the 'co-editing' feature on the drive.
 - By default, it supports the ability to open, save, view, convert, print, and more.
 - The Hancom Office supports 'hwp', 'xxs', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt' and 'show'.

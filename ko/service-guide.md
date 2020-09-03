@@ -64,3 +64,48 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 -	해당 날짜까지 공유합니다. 날짜가 지나면 링크는 유효하지 않습니다.
 공유 범위
 -	테넌트내 멤버, 손님 이외 외부 사용자에게도 공유할 수 있습니다.  첨부 파일까지 공유할 것인지 설정합니다.
+
+
+### 공동 편집
+
+#### 공동 편집 
+- 멤버들이 동시에 오피스 문서를 편집할 수 있도록 제공합니다. 
+- 다수의 사용자가 하나의 문서를 실시간으로 공동편집하고, 변경내용을 편집화면 내에서 바로 확인할 수 있습니다.
+- 공동 편집기능을 지원하는 확장자는  'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
+- 별표 파일, 공유받은 파일, 개인 프로젝트, 프로젝트에서 모두 공동편집 기능을 사용할 수 있습니다.
+- 파일 클릭 후 우측 미리보기 영역에서 '공동 편집'을 클릭하는 경우 공동 편집 기능이 활성화 됩니다.
+- 공동 편집 기능을 사용하기 위해서는 별도 신청이 필요합니다.
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative real-time editing_01.png)
+<center>[그림 1] 공동 편집 실행</center>  
+
+
+### 한컴 오피스 사용하기
+- 드라이브의 '공동 편집' 기능 사용 시, 한컴 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 열기, 저장, 열람, 변환, 인쇄 등의 기능을 지원합니다.
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative real-time editing_PPT.png)
+<center>[그림 1] PPT 공동 편집 실행화면</center>  
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative real-time editing_Excel.png)
+<center>[그림 2] Excel 공동 편집 실행화면</center>  
+
+- 한컴 오피스 기능 도움말은 공동 편집 화면 우측 상단 물음표 클릭 시 확인 가능합니다.
+- 상세 기능설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
+
+
+### 폴라리스 오피스 사용하기
+- 드라이브의 '편집' 기능 사용 시, 폴라리스 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 편집 후 업로드, 열람, 인쇄 등의 기능을 지원합니다.
+- 문서 편집 후 툴바에서 '두레이 업로드' 클릭 시 두레이 드라이브로 업로드 됩니다. 
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_01.png)
+<center>[그림 1] 두레이 업로드 </center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_ppt.png)
+<center>[그림 2] PPT 편집 실행화면</center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_excel.png)
+<center>[그림 3] Excel 편집 실행화면</center>  
+
+- 상세 기능설명은 폴라리스 오피스의 [사용자 가이드](http://pc.polarisoffice.com/help/kor/PO2017/)를 참고 해주세요.

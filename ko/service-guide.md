@@ -64,3 +64,47 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 -	해당 날짜까지 공유합니다. 날짜가 지나면 링크는 유효하지 않습니다.
 공유 범위
 -	테넌트내 멤버, 손님 이외 외부 사용자에게도 공유할 수 있습니다.  첨부 파일까지 공유할 것인지 설정합니다.
+
+
+### 공동 편집
+- 다수의 사용자가 하나의 문서를 실시간으로 공동편집하고, 변경내용을 편집화면 내에서 바로 확인할 수 있습니다.
+- 공동 편집기능을 지원하는 확장자는  'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
+- 파일 클릭 후 우측 미리보기 영역에서 '공동 편집'을 클릭하는 경우 공동 편집 기능이 활성화 됩니다.
+
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_01.png)
+<center>[그림 1] 공동 편집 실행</center>  
+
+- 공동 편집 기능은 웹오피스인 한컴오피스로 실행됩니다.
+- 공동 편집 기능을 사용하기 위해서는 별도 신청이 필요합니다.
+
+### 한컴 오피스 사용하기
+- 드라이브의 '공동 편집' 기능 사용 시, 한컴 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 열기, 저장, 열람, 변환, 인쇄 등의 기능을 지원합니다.
+- 한컴 오피스를 지원하는 확장자는  'xlsx', 'xls', 'cell', 'docx', 'doc', 'pptx', 'ppt', 'show'입니다.
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_PPT.png)
+<center>[그림 1] PPT 공동 편집 실행화면</center>  
+
+![공동편집](http://static.toastoven.net/prod_dooray_drive/Collaborative%20real-time%20editing_Excel.png)
+<center>[그림 2] Excel 공동 편집 실행화면</center>  
+
+- 상세기능 설명은 한컴 오피스의 [PPT 도움말](https://office.dooray.com/cloud-office/help/Hcell/ko_kr/index.htm#t=intro%2Fintro.html), [Exel 도움말](https://office.dooray.com/cloud-office/help/Hshow/ko_kr/index.htm#t=intro%2Fwebsample.html), [Word 도움말](https://office.dooray.com/cloud-office/help/Hword/ko_kr/index.htm#t=intro%2Fwebsample.html)을 참고 해주세요.
+- 공동 편집 화면 우측상단의 물음표 클릭 시 도움말을 확인 할 수 있습니다.
+
+### 폴라리스 오피스 사용하기
+- 드라이브의 '편집' 기능 사용 시, 폴라리스 오피스를 사용할 수 있습니다. 
+- 기본적으로 문서 편집 후 업로드, 열람, 인쇄 등의 기능을 지원합니다.
+- 폴라리스 오피스를 지원하는 확장자는  'xlsx', 'xls', 'docx', 'doc', 'pptx', 'ppt', 입니다.
+- 문서 편집 후 툴바에서 '두레이 업로드' 클릭 시 두레이 드라이브로 업로드 됩니다. 
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_01.png)
+<center>[그림 1] 두레이 업로드 </center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_ppt.png)
+<center>[그림 2] PPT 편집 실행화면</center>  
+
+![편집](http://static.toastoven.net/prod_dooray_drive/editing_excel.png)
+<center>[그림 3] Excel 편집 실행화면</center>  
+
+- 상세기능 설명은 폴라리스 오피스의 [사용자 가이드](http://pc.polarisoffice.com/help/kor/PO2017/)를 참고 해주세요.

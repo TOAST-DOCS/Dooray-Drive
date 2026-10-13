@@ -36,7 +36,7 @@ Dooray! 드라이브를 이용하면 파일 및 폴더를 안전하게 저장하
 <center>[그림 1] 프로젝트 드라이브 사용 설정</center>
           
 ### 드라이브 접근 및 파일 사용 권한  
-Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요.  
+Dooray! [Project 서비스별 권한 설정](https://docs.nhncloud.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요.  
 
 ### 변경 히스토리
 프로젝트 멤버들이 파일 및 폴더를 함께 접근해서 사용할 경우, 영구 삭제를 하지 않아도 파일 유실, 변경에 대한 걱정을 하지 않으셔도 됩니다. 프로젝트 드라이브의 파일 및 폴더들은 다른 드라이브로 이동할 수 없게 되어 있습니다. 다른 드라이브로 파일이 이동되면, 이동된 프로젝트 드라이브의 멤버가 아닌 이상, 파일을 추적할 수가 없습니다.
